@@ -53,18 +53,6 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 6
-  name: "Graham"
-  surname: "Triggs"
-  title: "VIVO Technical Lead"
-  thumbnailUrl: GrahamTriggs.jpg
-  duraspace: true
-  ribbon: 
-    - {abbr: "VIVO", title: "VIVO Project"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
-- 
   id: 7
   name: "Debra"
   surname: "Hanken Kurtz"

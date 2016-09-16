@@ -1,35 +1,35 @@
 - 
-  id: "SorenAuer"
-  name: "Sören"
-  surname: "Auer"
-  company: "Universität Bonn & Fraunhofer IAIS"
-  title: "Professor for Enterprise Information Systems"
-  bio: "Sören Auer studied Mathematics and Computer Science in Dresden, Hagen and Yekaterinburg (Russia). In 2006 he obtained his doctorate in Computer Science from Universität Leipzig. From 2006-2008 he worked with the database research group at the University of Pennsylvania, USA. In 2008 he founded AKSW research group at University of Leipzig, which he led till 2013. Currently, he holds the chair for Enterprise Information Systems at University of Bonn and leads a department at Fraunhofer Institute for Analysis and Information Systems (IAIS). Sören's research interests include semantic web technologies, knowledge engineering, software engineering, usability, as well as databases and information systems. He led / is leading several large-scale collaborative research projects such as the European Union’s FP7-ICT flagship project LOD2 comprising 15 partners from 11 countries. Sören is co-founder of several high-impact research and community projects such as the Wikipedia semantification project DBpedia, the OpenCourseWare authoring platform SlideWiki.org (received the OpenCourseware Innovation award) and the spatial data integration platform LinkedGeoData."
-  thumbnailUrl: SorenAuer.jpg
+  id: "DavidWeinberger"
+  name: "David"
+  surname: "Weinberger"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: DavidWeinberger.jpg
   rockstar: true
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: "DarioTaraborelli"
-  name: "Dario"
-  surname: "Taraborelli"
-  company: "Wikimedia Foundation"
-  title: "Director of Research"
-  bio: 'Dario is a social computing researcher and open knowledge advocate based in San Francisco. He is currently the Director of Research at the Wikimedia Foundation, the non-profit organization that operates Wikipedia and its sister projects. His research spans the behavioral and social aspects of online collaboration and commons-based peer production. As a co-author of the Altmetrics Manifesto and a long-standing open access advocate, he is interested in the design of open systems to promote, track and measure the impact, reuse and discoverability of research objects. Prior to joining the Wikimedia Foundation, he held research and teaching positions at University College London, University of Surrey, Sciences Po, Paris Diderot University, and École Normale Supérieure. He holds a PhD and MSc in Cognitive Science from the École des Hautes Études en Sciences Sociales in Paris, a MA in Philosophy of Science from the University of Pisa, and a licenza from the Scuola Normale Superiore in Pisa. He is the joint recipient of a gold prize in Interactive Visualization from the Information is Beautiful Awards. His work has been featured in various outlets including TechCrunch, the Guardian, the Wall Street Journal, BoingBoing, the Chronicle of Higher Education, The Next Web, and Times Higher Education.'
-  thumbnailUrl: DarioTaraborelli.jpg
+  id: "JamesOnken"
+  name: "James"
+  surname: "Onken"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: JamesOnken.jpg
   rockstar: true
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: "RubenVerborgh"
-  name: "Ruben"
-  surname: "Verborgh"
-  company: "Ghent University"
-  title: "Semantic Web Researcher"
-  bio: "Dr. Ruben Verborgh is a researcher in semantic hypermedia at Ghent University ­ iMinds, Belgium and a postdoctoral fellow of the Research Foundation Flanders. He explores the connection between Semantic Web technologies and the Web's architectural properties, with the ultimate goal of building more intelligent clients. Along the way, he became fascinated by Linked Data, REST/hypermedia, Web APIs, and related technologies. He's a co-author of two books on Linked Data, and has contributed to more than 150 publications for international conferences and journals on Web-related topics."
-  thumbnailUrl: RubenVerborgh.jpg
+  id: "JustinStarren"
+  name: "Justin"
+  surname: "Starren"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: JustinStarren.jpg
   rockstar: true
 #  ribbon: 
 #    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -38,13 +38,13 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: "PedroSzekely"
-  name: "Pedro"
-  surname: "Szekely"
-  company: "USC Information Sciences Institute"
-  title: "Research Team Leader"
-  bio: "Dr. Pedro Szekely is a Research Team Leader at the USC Information Sciences Institute (ISI) and a Research Associate Professor at the USC Computer Science Department. Dr. Szekely joined USC in 1988 after receiving his M.S. and Ph.D. degrees in Computer Science from Carnegie Mellon University. His current research focuses on algorithms and tools to acquire and reorganize web content to uncover hidden connections to create domain-specific knowledge graphs. These knowledge graphs enable users to use the web for investigative search to answer questions that are not possible to answer with traditional search engines. These tools are being used to construct knowledge graphs about cultural heritage, weapons trafficking, patent trolls, counterfeit electronics and human trafficking. The knowledge graph for human trafficking has been deployed to victim-support and law enforcement agencies helping them to identify victims and prosecute traffickers."
-  thumbnailUrl: PedroSzekely.jpg
+  id: "NettieLagace"
+  name: "Nettie"
+  surname: "Lagace"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: NettieLagace.jpg
   rockstar: true
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -52,40 +52,363 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
 #    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: "SandyPayette"
-  name: "Sandy"
-  surname: "Payette"
-  company: "Cornell University Library"
-  title: "Director of Land Grant and Research IT"
-  bio: "Sandy Payette joined Cornell University Library in January 2016 as the new Director of Land Grant and Research IT. She leads a portfolio of projects that support Cornell University's land-grant mission, with a particular focus on exposing scholarly and scientific resources on the Web by building “knowledge infrastructure.” In her previous work, Sandy was the co-inventor and chief architect of the Fedora digital repository architecture at Cornell Computing and Information Science. She was the founding CEO of DuraSpace before VIVO joined in 2014. DuraSpace is a not-for-profit organization that provides open source technologies and community resources to help preserve the world’s intellectual, cultural, and scientific heritage in digital form.  Sandy also served as Research Investigator at the University of Michigan where she provided leadership in building technologies to support sharing and publication of research data in the context of SEAD, an NSF DataNet partner.  Sandy's educational background is inter-disciplinary, with degrees in computing and information systems, MBA, MS Communication, and currently a PhD candidate at Cornell’s Department of Communication. "
-  thumbnailUrl: SandyPayette.jpg
+  id: "InaBlumel"
+  name: "Ina"
+  surname: "Blumel"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: InaBlumel.jpg
   rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
 -
-  id: "LaurelHaak"
-  name: "Laurel"
-  surname: "Haak"
-  company: "ORCID"
-  title: "Executive Director"
-  bio: "Dr. Laurel Haak drives awareness of the ORCID mission, building strategic relationships, working with a broad range of constituents, ensuring organizational persistence, and directing ORCID staff and contractors. Previously, Laure was Chief Science Of cer at Discovery Logic, Inc.; a program
-of cer for the US National Academies' Committee on Science, Engineering, and Public Policy; and editor of Science's Next Wave Postdoc Network at the American Association for the Advancement
-of Science. Laure received a BS and an MS in Biology from Stanford University and a PhD in Neuroscience in 1997 from Stanford University Medical School, and she was a postdoc at the US
-National Institutes of Health."
-  thumbnailUrl: LaurelHaak.jpg
+  id: "AlexandreRademaker"
+  name: "Alexandre"
+  surname: "Rademaker"
 -
-  id: "JenniferLin"
-  name: "Jennifer"
+  id: "AlexViggio"
+  name: "Alex"
+  surname: "Viggio"
+  company: "CU Boulder"
+  title: ""
+  bio: ""
+  thumbnailUrl: AlexViggio.png
+-
+  id: "AmarendraDas"
+  name: "Amarendra"
+  surname: "Das"
+-
+  id: "AndreaDenton"
+  name: "Andrea"
+  surname: "Denton"
+-
+  id: "AndreaMichalek"
+  name: "Andrea"
+  surname: "Michalek"
+  company: ""
+-
+  id: "AndreaMichele"
+  name: "Andrea"
+  surname: "Michele"
+-
+  id: "AndreGuimaraesPeil"
+  name: "Andre"
+  surname: "Guimaraes Peil"
+-
+  id: "AndreMarques"
+  name: "Andre"
+  surname: "Marques"
+-
+  id: "AnirvanChatterjee"
+  name: "Anirvan"
+  surname: "Chatterjee"
+  company: "UCSF"
+-
+  id: "AnnBeynon"
+  name: "Ann"
+  surname: "Beynon"
+-
+  id: "AnupSawant"
+  name: "Anup"
+  surname: "Sawant"
+-
+  id: "BartRagon"
+  name: "Bart"
+  surname: "Ragon"
+-
+  id: "BenjaminGross"
+  name: "Benjamin"
+  surname: "Gross"
+-
+  id: "BrianLowe"
+  name: "Brian"
+  surname: "Lowe"
+  company: "Ontocale"
+-
+  id: "BrianTurner"
+  name: "Brian"
+  surname: "Turner"
+  company: "UCSF"
+-
+  id: "BrigitteJoerg"
+  name: "Brigitte"
+  surname: "Joerg"
+-
+  id: "BruceHerbert"
+  name: "Bruce"
+  surname: "Herbert"
+-
+  id: "ChristopherBarnes"
+  name: "Christopher"
+  surname: "Barnes"
+-
+  id: "CliffordAnderson"
+  name: "Clifford"
+  surname: "Anderson"
+-
+  id: "CurtisCole"
+  name: "Curtis"
+  surname: "Cole"
+-
+  id: "DanielaBrauner"
+  name: "Daniela"
+  surname: "Brauner"
+-
+  id: "DarcyBranchini"
+  name: "Darcy"
+  surname: "Branchini"
+-
+  id: "DavidEichmann"
+  name: "David"
+  surname: "Eichmann"
+-
+  id: "DeanKrafft"
+  name: "Dean"
+  surname: "Krafft"
+  company: "Cornell"
+  thumbnailUrl: "DeanKrafft.jpg"
+-
+  id: "DenisAgniel"
+  name: "Denis"
+  surname: "Agniel"
+-
+  id: "DonElsborg"
+  name: "Don"
+  surname: "Elsborg"
+-
+  id: "EdWarga"
+  name: "Ed"
+  surname: "Warga"
+-
+  id: "ElizaChan"
+  name: "Eliza"
+  surname: "Chan"
+-
+  id: "EricaJohns"
+  name: "Erica"
+  surname: "Johns"
+-
+  id: "EricMeeks"
+  name: "Eric"
+  surname: "Meeks"
+  company: "UCSF"
+-
+  id: "GlaucoRobertoMunsberg"
+  name: "Glauco Roberto"
+  surname: "Munsberg"
+-
+  id: "GrahamTriggs"
+  name: "Graham"
+  surname: "Triggs"
+  company: "Symplectic"
+  title: "Head of Repostiory Systems"
+  bio: ""
+  thumbnailUrl: GrahamTriggs.jpg
+-
+  id: "GriffinWeber"
+  name: "Griffin"
+  surname: "Weber"
+-
+  id: "HarshadGado"
+  name: "Harshad"
+  surname: "Gado"
+-
+  id: "HetalOza"
+  name: "Hetal"
+  surname: "Oza"
+-
+  id: "HudaKhan"
+  name: "Huda"
+  surname: "Khan"
+  company: "Cornell"
+-
+  id: "IngridZabel"
+  name: "Ingrid"
+  surname: "Zabel"
+-
+  id: "InhyeSon"
+  name: "Inhye"
+  surname: "Son"
+-
+  id: "JaniferGatenby"
+  name: "Janifer"
+  surname: "Gatenby"
+-
+  id: "JeremyBartczak"
+  name: "Jeremy"
+  surname: "Bartczak"
+-
+  id: "JessicaHernandez"
+  name: "Jessica"
+  surname: "Hernandez"
+-
+  id: "JieLin"
+  name: "Jie"
   surname: "Lin"
-  company: "CrossRef"
-  title: "Director of Project Management"
-  bio: "Dr. Jennifer Lin has  fteen years’ experience in product development, project management, community outreach, and change management within scholarly communications, education, and the public sector. She joins Crossref after four years at the Public Library of Science (PLOS) where she oversaw product strategy and development for their data program, article- level metrics initiative, and open assessment activities. Prior to PLOS, she was a consultant with Accenture working with public sector and Fortune 500 companies to develop and deploy new products and services. Jennifer earned her PhD at Johns Hopkins University. She can be reached via twitter @jenniferlin15 or email jlin@crossref.org."
-  thumbnailUrl: JenniferLin.jpg
-  social: 
-    - {name: "twitter", link: "http://twitter.com/jenniferlin15"}
+-
+  id: "JimBlake"
+  name: "Jim"
+  surname: "Blake"
+-
+  id: "JingWang"
+  name: "Jing"
+  surname: "Wang"
+-
+  id: "JohnFereira"
+  name: "John"
+  surname: "Fereira"
+-
+  id: "JohnGieschen"
+  name: "John"
+  surname: "Gieschen"
+  company: "Symplectic"
+-
+  id: "JonathanBreeze"
+  name: "Jonathan"
+  surname: "Breeze"
+  company: "Symplectic"
+-
+  id: "JonCorsonRikert"
+  name: "Jon"
+  surname: "Corson-Rikert"
+-
+  id: "JordiVirgiliGoma"
+  name: "Jordi Virgili"
+  surname: "Goma"
+-
+  id: "JuliaLaurin"
+  name: "Julia"
+  surname: "Laurin"
+-
+  id: "JuliaTrimmer"
+  name: "Julia"
+  surname: "Trimmer"
+  company: "Duke"
+  title: ""
+  bio: ""
+  thumbnailUrl: JuliaTrimmer.jpg
+-
+  id: "KannanP"
+  name: "Kannan"
+  surname: "P"
+-
+  id: "KarenGuzman"
+  name: "Karen"
+  surname: "Guzman"
+-
+  id: "KarenSmithYoshimura"
+  name: "Karen"
+  surname: "Smith-Yoshimura"
+-
+  id: "KeithMaull"
+  name: "Keith"
+  surname: "Maull"
+-
+  id: "KristiHolmes"
+  name: "Kristi"
+  surname: "Holmes"
+-
+  id: "LamontCannon"
+  name: "Lamont"
+  surname: "Cannon"
+-
+  id: "LindaRowan"
+  name: "Linda"
+  surname: "Rowan"
+-
+  id: "MarianneParkhill"
+  name: "Marianne"
+  surname: "Parkhill"
+-
+  id: "MatthewMayernik"
+  name: "Matthew"
+  surname: "Mayernik"
+-
+  id: "MeganNunemaker"
+  name: "Megan"
+  surname: "Nunemaker"
+-
+  id: "MelissaHaendel"
+  name: "Melissa"
+  surname: "Haendel"
+-
+  id: "MichaelBales"
+  name: "Michael"
+  surname: "Bales"
+-
+  id: "MichaelWilson"
+  name: "Michael"
+  surname: "Wilson"
+-
+  id: "MichealeenTrimarchi"
+  name: "Michealeen"
+  surname: "Trimarchi"
+-
+  id: "MikeConlon"
+  name: "Mike"
+  surname: "Conlon"
+  company: "VIVO"
+  title: "Project Director"
+  bio: "Dr. Michael Conlon is an Emeritus Faculty member of the University of Florida and serves
+as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-director of the University of Florida Clinical and Translational Science Institute, and as Director of Biomedical Informatics, UF College of Medicine. His responsibilities included expansion and integration of research and clinical resources, and strategic planning for translational research. Previously, Dr. Conlon served as PI of the VIVO project, leading a team of 180 investigators at seven schools in the development, implementation and advancement of an open source, semantic web application for research discovery. Dr. Conlon has served as Chief Information Of cer of the University of Florida Health Science Center where he directed network and video services, desktop support, media and graphics, application development, teaching support, strategic planning and distance learning. His current interests include representation of scholarship, and research data sharing and reuse."
+  thumbnailUrl: MikeConlon.jpg
+-
+  id: "MikeDaniels"
+  name: "Mike"
+  surname: "Daniels"
+-
+  id: "MohammadMansour"
+  name: "Mohammad"
+  surname: "Mansour"
+-
+  id: "NicholeRosamilia"
+  name: "Nichole"
+  surname: "Rosamilia"
+-
+  id: "NoshirContractor"
+  name: "Noshir"
+  surname: "Contractor"
+-
+  id: "PaulAlbert"
+  name: "Paul"
+  surname: "Albert"
+  company: "Weill Cornell Medicine"
+-
+  id: "PiotrHebal"
+  name: "Piotr"
+  surname: "Hebal"
+-
+  id: "PrakashAdekkanattu"
+  name: "Prakash"
+  surname: "Adekkanattu"
+-
+  id: "RajaLalithSabbisetti"
+  name: "Raja Lalith"
+  surname: "Sabbisetti"
+-
+  id: "RebeccaYounes"
+  name: "Rebecca"
+  surname: "Younes"
+-
+  id: "RichardWhaling"
+  name: "Richard"
+  surname: "Whaling"
+-
+  id: "RobertMcdonald"
+  name: "Robert"
+  surname: "Mcdonald"
+-
+  id: "RobertoGarcia"
+  name: "Roberto"
+  surname: "Garcia"
+-
+  id: "RosaGil"
+  name: "Rosa"
+  surname: "Gil"
+-
+  id: "SabihAli"
+  name: "Sabih"
+  surname: "Ali"
+  company: "Symplectic"
 -
   id: "SimonPorter"
   name: "Simon"
@@ -99,310 +422,44 @@ capability to create new opportunities for researchers. Over the past three year
 Simon was the the program chair of the third annual VIVO conference held in Miami."
   thumbnailUrl: SimonPorter.jpg
 -
-  id: "MikeConlon"
-  name: "Mike"
-  surname: "Conlon"
-  company: "VIVO"
-  title: "Project Director"
-  bio: "Dr. Michael Conlon is an Emeritus Faculty member of the University of Florida and serves
-as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-director of the University of Florida Clinical and Translational Science Institute, and as Director of Biomedical Informatics, UF College of Medicine. His responsibilities included expansion and integration of research and clinical resources, and strategic planning for translational research. Previously, Dr. Conlon served as PI of the VIVO project, leading a team of 180 investigators at seven schools in the development, implementation and advancement of an open source, semantic web application for research discovery. Dr. Conlon has served as Chief Information Of cer of the University of Florida Health Science Center where he directed network and video services, desktop support, media and graphics, application development, teaching support, strategic planning and distance learning. His current interests include representation of scholarship, and research data sharing and reuse."
-  thumbnailUrl: MikeConlon.jpg
+  id: "StacyKonkiel"
+  name: "Stacy"
+  surname: "Konkiel"
 -
-  id: "GrahamTriggs"
-  name: "Graham"
-  surname: "Triggs"
-  company: "VIVO"
-  title: "Technical Lead"
-  bio: ""
-  thumbnailUrl: GrahamTriggs.jpg
--
-  id: "PaulAlbert"
-  name: "Paul"
-  surname: "Albert"
-  company: "Weill Cornell Medicine"
-  title: ""
-  bio: ""
-#  thumbnailUrl: GrahamTriggs.jpg
--
-  id: "BrianLowe"
-  name: "Brian"
-  surname: "Lowe"
-  company: "Ontocale"
-  title: ""
-  bio: ""
-#  thumbnailUrl: GrahamTriggs.jpg
--
-  id: "AndiOgier"
-  name: "Andi"
-  surname: "Ogier"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: AndiOgier.jpg
--
-  id: "MichaeleenTrimarchi"
-  name: "Michaeleen"
-  surname: "Trimarchi"
-  company: ""
-  title: ""
-  bio: ""
-#  thumbnailUrl: GrahamTriggs.jpg
--
-  id: "JuliaTrimmer"
-  name: "Julia"
-  surname: "Trimmer"
-  company: "Duke"
-  title: ""
-  bio: ""
-  thumbnailUrl: JuliaTrimmer.jpg
--
-  id: "AlexViggio"
-  name: "Alex"
-  surname: "Viggio"
-  company: "CU Boulder"
-  title: ""
-  bio: ""
-  thumbnailUrl: AlexViggio.png
-- 
-  id: "VioletaIlik"
-  name: "Violeta"
-  surname: "Ilik"
-  thumbnailUrl: VioletaIlik.jpg
--
-  id: "BrianTurner"
-  name: "Brian"
-  surname: "Turner"
-  company: "UCSF"
--
-  id: "AnirvanChatterjee"
-  name: "Anirvan"
-  surname: "Chatterjee"
-  company: "UCSF"
--
-  id: "EricMeeks"
-  name: "Eric"
-  surname: "Meeks"
-  company: "UCSF"
--
-  id: "RichardOutten"
-  name: "Richard"
-  surname: "Outten"
-  company: ""
--
-  id: "GregBurton"
-  name: "Greg"
-  surname: "Burton"
-  company: "Duke"
--
-  id: "RickJohnson"
-  name: "Rick"
+  id: "StephenJohnson"
+  name: "Stephen"
   surname: "Johnson"
-  company: ""
 -
-  id: "BruceHerbert"
-  name: "Bruce"
-  surname: "Herbert"
-  company: ""
--
-  id: "AndreaMichalek"
-  name: "Andrea"
-  surname: "Michalek"
-  company: ""
--
-  id: "MarianneParkhill"
-  name: "Marianne"
-  surname: "Parkhill"
-  company: ""
--
-  id: "MichaelBales"
-  name: "Michael"
-  surname: "Bales"
-  company: ""
--
-  id: "JieLin"
-  name: "Jie"
-  surname: "Lin"
-  company: ""
--
-  id: "SteveJohnson"
+  id: "SteveWilliams"
   name: "Steve"
-  surname: "Johnson"
-  company: ""
+  surname: "Williams"
 -
-  id: "ValrieMinson"
-  name: "Valrie"
-  surname: "Minson"
-  company: ""
+  id: "StuartChalk"
+  name: "Stuart"
+  surname: "Chalk"
 -
-  id: "SaraGonzalez"
-  name: "Sara"
-  surname: "Gonzalez"
-  company: ""
+  id: "SuellenStringerHye"
+  name: "Suellen"
+  surname: "Stringer-Hye"
 -
-  id: "JudithRussell"
-  name: "Judith"
-  surname: "Russell"
-  company: ""
--
-  id: "JonathanBreeze"
-  name: "Jonathan"
-  surname: "Breeze"
-  company: "Symplectic"
--
-  id: "JeffDougherty"
-  name: "Jeff"
-  surname: "Dougherty"
-  company: "Symplectic"
--
-  id: "MichaelMetcalf"
-  name: "Michael"
-  surname: "Metcalf"
-  company: "Symplectic"
--
-  id: "SabihAli"
-  name: "Sabih"
-  surname: "Ali"
-  company: "Symplectic"
--
-  id: "JuliaHawks"
-  name: "Julia"
-  surname: "Hawks"
-  company: "Symplectic"
--
-  id: "JohnGieschen"
-  name: "John"
-  surname: "Gieschen"
-  company: "Symplectic"
--
-  id: "ChristopherBarnes"
-  name: "Christopher"
-  surname: "Barnes"
--
-  id: "KevinHanson"
-  name: "Kevin"
-  surname: "Hanson"
--
-  id: "JohnMarkOckerbloom"
-  name: "John Mark"
-  surname: "Ockerbloom"
--
-  id: "JamesKing"
-  name: "James"
-  surname: "King"
--
-  id: "JessicaHernandezBerrellez"
-  name: "Jessica"
-  surname: "Hernandez Berrellez"
--
-  id: "NicholeRosamilia"
-  name: "Nichole"
-  surname: "Rosamilia"
--
-  id: "BenHope"
-  name: "Ben"
-  surname: "Hope"
--
-  id: "MashanaDavis"
-  name: "Mashana"
-  surname: "Davis"
--
-  id: "BridgetBurns"
-  name: "Bridget"
-  surname: "Burns"
+  id: "SuzanneThompson"
+  name: "Suzanne"
+  surname: "Thompson"
 -
   id: "TedLawless"
   name: "Ted"
   surname: "Lawless"
   company: "Thomson Reuters"
 -
-  id: "NicholasRejack"
-  name: "Nicholas"
-  surname: "Rejack"
+  id: "ThomasVestdam"
+  name: "Thomas"
+  surname: "Vestdam"
 -
-  id: "DeanKrafft"
-  name: "Dean"
-  surname: "Krafft"
-  company: "Cornell"
-  thumbnailUrl: "DeanKrafft.jpg"
--
-  id: "StevenMcCauley"
-  name: "Steven"
-  surname: "McCauley"
--
-  id: "DavidEichmann"
-  name: "David"
-  surname: "Eichmann"
--
-  id: "AlexandreRademaker"
-  name: "Alexandre"
-  surname: "Rademaker"
--
-  id: "FabricioChalub"
-  name: "Fabricio"
-  surname: "Chalub"
--
-  id: "BenjaminGross"
-  name: "Benjamin"
-  surname: "Gross"
--
-  id: "LindaRowan"
-  name: "Linda"
-  surname: "Rowan"
--
-  id: "MatthewMayernik"
-  name: "Matthew"
-  surname: "Mayernik"
--
-  id: "MichaelDaniels"
-  name: "Michael"
-  surname: "Daniels"
--
-  id: "AnneWilson"
-  name: "Anne"
-  surname: "Wilson"
--
-  id: "JohnFurfey"
-  name: "John"
-  surname: "Furfey"
--
-  id: "UlyssesCannon"
-  name: "Ulysses"
-  surname: "Cannon"
--
-  id: "PrakashAdekkanattu"
-  name: "Prakash"
-  surname: "Adekkanattu"
--
-  id: "TerrieWheeler"
-  name: "Terrie"
-  surname: "Wheeler"
--
-  id: "HudaKhan"
-  name: "Huda"
-  surname: "Khan"
-  company: "Cornell"
--
-  id: "KeithMaull"
-  name: "Keith"
-  surname: "Maull"
--
-  id: "MikeDaniels"
-  name: "Mike"
-  surname: "Daniels"
--
-  id: "SteveWilliams"
-  name: "Steve"
-  surname: "Williams"
--
-  id: "EricaJohns"
-  name: "Erica"
-  surname: "Johns"
--
-  id: "TheaLindquist"
-  name: "Thea"
-  surname: "Lindquist"
--
-  id: "MarijaneWhite"
-  name: "Marijane"
-  surname: "White"
-
+  id: "ThorstenHollrigl"
+  name: "Thorsten"
+  surname: "Hollrigl"
+- 
+  id: "VioletaIlik"
+  name: "Violeta"
+  surname: "Ilik"
+  thumbnailUrl: VioletaIlik.jpg

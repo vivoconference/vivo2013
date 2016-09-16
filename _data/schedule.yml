@@ -1,10 +1,10 @@
 - 
-  date: "2016-08-17"
-  dateReadable: "August 17"
+  date: "2015-08-12"
+  dateReadable: "August 12"
   tracks: 
-    - {title: "Colorado Ballroom G", color: "#90be4e"}
-    - {title: "Colorado Ballroom H", color: "#03a9f4"}
-    - {title: "Colorado Ballroom I", color: "#e91e63"}
+    - {title: "Haym Saloman", color: "#90be4e"}
+    - {title: "William Dawes", color: "#03a9f4"}
+    - {title: "Thomas Paine", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
@@ -18,26 +18,26 @@
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:30",
+    	endTime: "13:00",
     	sessionIds: [903]
     }
     - {
-        startTime: "13:30",
-        endTime: "17:00",
+        startTime: "13:00",
+        endTime: "16:30",
         sessionIds: [054, 055, 056]
     }
     - {
-    	startTime: "17:30",
-    	endTime: "18:30",
+    	startTime: "17:00",
+    	endTime: "18:00",
     	sessionIds: [904]
     }
 - 
-  date: "2016-08-18"
-  dateReadable: "August 18"
+  date: "2015-08-13"
+  dateReadable: "August 13"
   tracks: 
-    - {title: "Colorado Ballroom G", color: "#90be4e"}
-    - {title: "Colorado Ballroom H", color: "#03a9f4"}
-    - {title: "Colorado Ballroom I", color: "#e91e63"}
+    - {title: "Haym Saloman", color: "#90be4e"}
+    - {title: "William Dawes", color: "#03a9f4"}
+    - {title: "Thomas Paine", color: "#e91e63"}
   timeslots: 
     - {
     	startTime: "07:30",
@@ -46,23 +46,23 @@
     }
     - {
     	startTime: "08:30",
-    	endTime: "10:00",
+    	endTime: "09:45",
     	sessionIds: [001]
     }
     - {
     	startTime: "10:00",
-    	endTime: "10:30",
-    	sessionIds: [902]
+    	endTime: "10:40",
+    	sessionIds: [101,102,103]
     }
     - {
-    	startTime: "10:30",
+    	startTime: "10:40",
     	endTime: "11:00",
-    	sessionIds: [101,102,103]
+    	sessionIds: [104,105,106]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:30",
-    	sessionIds: [104,105,106]
+    	sessionIds: [902]
     }
     - {
     	startTime: "11:30",
@@ -71,38 +71,38 @@
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:30",
-    	sessionIds: [903]
-    }
-    - {
-        startTime: "13:30",
-        endTime: "14:15",
-        sessionIds: [003]
-    }
-    - {
-        startTime: "14:15",
-        endTime: "15:00",
-        sessionIds: [004]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "15:30",
-    	sessionIds: [902]
-    }
-    - {
-    	startTime: "15:30",
-    	endTime: "16:00",
+    	endTime: "12:30",
     	sessionIds: [110,111,112]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "16:30",
+    	startTime: "12:30",
+    	endTime: "13:45",
+    	sessionIds: [903]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "14:30",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:15",
+        sessionIds: [004]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:50",
     	sessionIds: [113,114,115]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:00",
+    	startTime: "15:50",
+    	endTime: "16:10",
     	sessionIds: [116,117,118]
+    }
+    - {
+    	startTime: "16:10",
+    	endTime: "16:30",
+    	sessionIds: [119,120,121]
     }
     - {
     	startTime: "17:00",
@@ -110,12 +110,12 @@
     	sessionIds: [905]
     }
 - 
-  date: "2016-08-19"
-  dateReadable: "August 19"
+  date: "2015-08-14"
+  dateReadable: "August 14"
   tracks: 
-    - {title: "Colorado Ballroom G", color: "#90be4e"}
-    - {title: "Colorado Ballroom H", color: "#03a9f4"}
-    - {title: "Colorado Ballroom I", color: "#e91e63"}
+    - {title: "Haym Saloman", color: "#90be4e"}
+    - {title: "William Dawes", color: "#03a9f4"}
+    - {title: "Thomas Paine", color: "#e91e63"}
   timeslots: 
     - {
     	startTime: "07:30",
@@ -124,58 +124,58 @@
     }
     - {
     	startTime: "08:30",
-    	endTime: "10:00",
+    	endTime: "09:45",
     	sessionIds: [002]
     }
     - {
     	startTime: "10:00",
-    	endTime: "10:30",
-    	sessionIds: [902]
+    	endTime: "10:40",
+    	sessionIds: [122,123,124]
     }
     - {
-    	startTime: "10:30",
+    	startTime: "10:40",
     	endTime: "11:00",
-    	sessionIds: [119,120,121]
+    	sessionIds: [125,123,126]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:30",
-    	sessionIds: [122,123,124]
+    	sessionIds: [902]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:00",
-    	sessionIds: [125,126,127]
+    	sessionIds: [127,128,129]
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:30",
+    	endTime: "12:30",
+    	sessionIds: [130,128,131]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:45",
     	sessionIds: [903]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:15",
+    	startTime: "13:45",
+    	endTime: "14:15",
+    	sessionIds: [132,133,134]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "14:45",
+    	sessionIds: [132,135,136]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:45",
         sessionIds: [005]
     }
     - {
-        startTime: "14:15",
-        endTime: "15:00",
+        startTime: "15:45",
+        endTime: "16:30",
         sessionIds: [006]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "15:30",
-    	sessionIds: [902]
-    }
-    - {
-    	startTime: "15:30",
-    	endTime: "16:00",
-    	sessionIds: [201]
-    }
-    - {
-    	startTime: "16:00",
-    	endTime: "16:30",
-    	sessionIds: [202]
     }
     - {
     	startTime: "16:30",
