@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VIVO Conference 2015"
+title: "VIVO Conference 2014"
 email: "vivo@null.com"
 description: "VIVO Conference is the annual event."
-baseurl: "/vivo2015"
+baseurl: "/vivo2014"
 url: "http://vivoconference.org"
 permalink: "/news/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
@@ -44,8 +44,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule.pdf", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 #bottomNavigationLinks:
@@ -55,10 +55,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> VIVO Conference 2015"
-eventDate: "12-14 August, 2015"
-typeoutTextValues: '"", "6th Annual", "International"'
-typeoutFallback: "6th Annual International"
+heroTitle: "<typeout> VIVO Conference 2014"
+eventDate: "6-8 August, 2014"
+typeoutTextValues: '"", "5th Annual", "International"'
+typeoutFallback: "5th Annual International"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -83,38 +83,38 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 0
 rockstarSpeakersTitle: "Keynote and Invited Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Hyatt Regency Cambridge"
-eventLocationLink: "https://cambridge.regency.hyatt.com/en/hotel/home.html"
-eventStreetAddress: "575 Memorial Dr."
-eventAddressLocality: "Cambridge"
-eventAddressLocalityRegion: "MA"
-eventPostalCode: "02139-4896"
+eventLocationName: "Hyatt Regency Austin"
+eventLocationLink: "https://austin.regency.hyatt.com/en/hotel/home.html"
+eventStreetAddress: "208 Barton Springs"
+eventAddressLocality: "Austin"
+eventAddressLocalityRegion: "TX"
+eventPostalCode: "78704"
 eventAddressCountry: "United States"
-eventStartTime: "2015-08-12T08:00"
+eventStartTime: "2014-08-06T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2015-08-14T17:00"
-eventPlaceCoordinates: "42.353879, -71.105464"
-mapCenterCoordinates: "42.353879, -71.105464"
-mapMobileCenterCoordinates: "42.353879, -71.105464"
+eventEndTime: "2014-08-08T17:00"
+eventPlaceCoordinates: "30.260723, -97.746627"
+mapCenterCoordinates: "30.260723, -97.746627"
+mapMobileCenterCoordinates: "30.260723, -97.746627"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueTitle: "Hyatt Regency Cambridge"
-venueFeatures: ["1 plenary auditorium", "3 breakout rooms", "On the banks of Charles River"]
+venueTitle: "Hyatt Regency Austin"
+venueFeatures: ["1 plenary auditorium", "3 breakout rooms", "On the banks of the Colorado River"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "vivo15"
+twitterHashTag: "vivo14"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -134,21 +134,21 @@ ticketsInfo: "Tickets grant access to all conference sessions. Accommodation and
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "375"
+  price: "350"
   priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-45%"
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-01-01T10:00"
-  validThrough: "2015-07-17T23:59"
+  validFrom: "2014-01-01T10:00"
+  validThrough: "2014-06-20T23:59"
   soldOut: true
   soldOutText: "Sold Out"
 #  disabled: true
  -
   name: "Regular"
-  price: "575"
+  price: "550"
   priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-8%"
@@ -156,13 +156,13 @@ ticketsOffers:
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-07-18T00:00"
-  validThrough: "2015-08-05T23:59"
+  validFrom: "2014-06-21T00:00"
+  validThrough: "2014-08-05T23:59"
   soldOut: true
   soldOutText: "Sold Out"
  -
   name: "Last Chance"
-  price: "625"
+  price: "600"
   priceCurrency: "USD"
   ticketsNumber: "100"
 #  ribbon: "-20%"
@@ -170,8 +170,8 @@ ticketsOffers:
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-08-06T00:00"
-  validThrough: "2015-08-12T23:59"
+  validFrom: "2014-08-06T00:00"
+  validThrough: "2014-08-08T23:59"
   soldOut: true
   soldOutText: "Sold Out"
 # -
@@ -229,15 +229,15 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "42.353879, -71.105464"
-logisticsMapMobileCenterCoordinates: "42.353879, -71.105464"
+logisticsMapCenterCoordinates: "30.260723, -97.746627"
+logisticsMapMobileCenterCoordinates: "30.260723, -97.746627"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Cambridge"
+directionDetailsTitle: "Get around Austin"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.flydenver.com">airport website</a>.'}
+ - {title: "From the Airport", information: 'XXX'}
  - {title: "Public Transit", information: 'XXX'}
 # - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
@@ -299,6 +299,6 @@ hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "42.353879, -71.105464"
-hackathonMapCenterCoordinates: "42.353879, -71.105464"
-hackathonMapMobileCenterCoordinates: "42.353879, -71.105464"
+hackathonPlaceCoordinates: "30.260723, -97.746627"
+hackathonMapCenterCoordinates: "30.260723, -97.746627"
+hackathonMapMobileCenterCoordinates: "30.260723, -97.746627"

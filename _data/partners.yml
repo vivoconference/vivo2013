@@ -1,11 +1,22 @@
 - 
-  group: "Platinum Sponsors"
+  group: "Sustaining Platinum Sponsors"
   elements: 
     - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk/", imageUrl: "SYMPLECTICLogo.png"}
 - 
+  group: "Platinum Sponsors"
+  elements: 
+    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com", imageUrl: "digital_science_cmyk_wbg002.jpg"}
+- 
+  group: "Sapphire Sponsors"
+  elements: 
+    - {name: "Thomson Reuters", description: "Thomson Reuters", link: "http://thomsonreuters.com/en/products-services/scholarly-scientific-research.html", imageUrl: "ThomsonReutersLogo.jpg"}
+- 
   group: "Gold Sponsors"
   elements: 
-    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
+    - {name: "Elsevier Research Intelligence", description: "Elsevier Research Intelligence", link: "http://www.elsevier.com/", imageUrl: "ElsevierRI.jpg"}
+    - {name: "Frontiers", description: "Frontiers", link: "http://www.frontiersin.org/", imageUrl: "frontierslogo.jpg"}
+- 
+  group: "Silver Sponsors"
+  elements: 
     - {name: "Plum Analytics", description: "Plum Analytics", link: "http://plumanalytics.com/", imageUrl: "Plum.jpg"}
-    - {name: "Thomson Reuters", description: "Thomson Reuters", link: "http://thomsonreuters.com/en/products-services/scholarly-scientific-research.html", imageUrl: "ThomsonReutersLogo.jpg"}
-    - {name: "Microsoft Research", description: "Microsoft Research", link: "http://research.microsoft.com/", imageUrl: "MicrosoftResearch.png"}
+    - {name: "Academic Analytics", description: "Academic Analytics", link: "http://www.academicanalytics.com/", imageUrl: "AcademicAnalytics.jpg"}
