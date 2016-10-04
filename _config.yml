@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VIVO Conference 2014"
+title: "VIVO Conference 2013"
 email: "vivo@null.com"
 description: "VIVO Conference is the annual event."
-baseurl: "/vivo2014"
+baseurl: "/vivo2013"
 url: "http://vivoconference.org"
 permalink: "/news/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
@@ -55,10 +55,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> VIVO Conference 2014"
-eventDate: "6-8 August, 2014"
-typeoutTextValues: '"", "5th Annual", "International"'
-typeoutFallback: "5th Annual International"
+heroTitle: "<typeout> VIVO Conference 2013"
+eventDate: "14-16 August, 2013"
+typeoutTextValues: '"", "4th Annual", "International"'
+typeoutFallback: "4th Annual International"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -89,32 +89,32 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Hyatt Regency Austin"
-eventLocationLink: "https://austin.regency.hyatt.com/en/hotel/home.html"
-eventStreetAddress: "208 Barton Springs"
-eventAddressLocality: "Austin"
-eventAddressLocalityRegion: "TX"
-eventPostalCode: "78704"
+eventLocationName: "Hilton St. Louis at the Ballpark"
+eventLocationLink: "http://www3.hilton.com/en/hotels/missouri/hilton-st-louis-at-the-ballpark-STLBVHF/index.html"
+eventStreetAddress: "1 S Broadway St"
+eventAddressLocality: "St Louis"
+eventAddressLocalityRegion: "MO"
+eventPostalCode: "63102"
 eventAddressCountry: "United States"
-eventStartTime: "2014-08-06T08:00"
+eventStartTime: "2013-08-14T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2014-08-08T17:00"
-eventPlaceCoordinates: "30.260723, -97.746627"
-mapCenterCoordinates: "30.260723, -97.746627"
-mapMobileCenterCoordinates: "30.260723, -97.746627"
+eventEndTime: "2013-08-16T17:00"
+eventPlaceCoordinates: "38.625124, -90.190390"
+mapCenterCoordinates: "38.625124, -90.190390"
+mapMobileCenterCoordinates: "38.625124, -90.190390"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueTitle: "Hyatt Regency Austin"
-venueFeatures: ["1 plenary auditorium", "3 breakout rooms", "On the banks of the Colorado River"]
+venueTitle: "Hilton St. Louis at the Ballpark"
+venueFeatures: ["1 plenary auditorium", "3 breakout rooms", "Overlooking Busch Stadium"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "vivo14"
+twitterHashTag: "vivo13"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -141,8 +141,8 @@ ticketsOffers:
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-01-01T10:00"
-  validThrough: "2014-06-20T23:59"
+  validFrom: "2013-01-01T10:00"
+  validThrough: "2013-06-21T23:59"
   soldOut: true
   soldOutText: "Sold Out"
 #  disabled: true
@@ -156,8 +156,8 @@ ticketsOffers:
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-06-21T00:00"
-  validThrough: "2014-08-05T23:59"
+  validFrom: "2013-06-22T00:00"
+  validThrough: "2013-08-13T23:59"
   soldOut: true
   soldOutText: "Sold Out"
  -
@@ -170,8 +170,8 @@ ticketsOffers:
   buyButtonLink: "http://eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-06T00:00"
-  validThrough: "2014-08-08T23:59"
+  validFrom: "2013-08-14T00:00"
+  validThrough: "2013-08-16T23:59"
   soldOut: true
   soldOutText: "Sold Out"
 # -
@@ -183,8 +183,8 @@ ticketsOffers:
 #  buyButtonText: "Buy Now"
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
+#  validFrom: "2013-08-20T10:00"
+#  validThrough: "2013-10-23T23:59"
 #  soldOut: true
 #  soldOutText: "Sold Out"
 
@@ -229,8 +229,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "30.260723, -97.746627"
-logisticsMapMobileCenterCoordinates: "30.260723, -97.746627"
+logisticsMapCenterCoordinates: "38.625124, -90.190390"
+logisticsMapMobileCenterCoordinates: "38.625124, -90.190390"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -295,10 +295,10 @@ hackathonAddressLocalityRegion: "Lvivska"
 hackathonPostalCode: "79000"
 hackathonAddressCountry: "Ukraine"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonStartTime: "2013-10-24T10:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2013-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "30.260723, -97.746627"
-hackathonMapCenterCoordinates: "30.260723, -97.746627"
-hackathonMapMobileCenterCoordinates: "30.260723, -97.746627"
+hackathonPlaceCoordinates: "38.625124, -90.190390"
+hackathonMapCenterCoordinates: "38.625124, -90.190390"
+hackathonMapMobileCenterCoordinates: "38.625124, -90.190390"
